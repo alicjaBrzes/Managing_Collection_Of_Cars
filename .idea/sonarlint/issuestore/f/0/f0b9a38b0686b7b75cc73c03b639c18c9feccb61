@@ -1,0 +1,10 @@
+
+<
+java:S3864"!Remove this use of "Stream.peek".(˜ÏÃÎüÿÿÿÿ
+N
+java:S1172""1Remove this unused method parameter "descending".(³©Ž8Êù±ë÷/
+T
+java:S1128
+"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8Îù±ë÷/
+„
+java:S1488'"bImmediately return this expression instead of assigning it to the temporary variable "sortedCars".(±¨‚úÿÿÿÿ8Ïù±ë÷/

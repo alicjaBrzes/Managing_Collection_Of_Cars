@@ -1,0 +1,46 @@
+[
+  {
+    "model": "BMW",
+    "price": 120,
+    "color": "BLACK",
+    "mileage": 1500,
+    "components": [
+      "ABS",
+      "MOON ROOF",
+      "NAVIGATION SYSTEM"
+    ]
+  },
+  {
+    "model": "MAZDA",
+    "price": 160,
+    "color": "WHITE",
+    "mileage": 2500,
+    "components": [
+      "AIR CONDITIONING",
+      "BLUETOOTH",
+      "PARKING SENSORS"
+    ]
+  },
+  {
+    "model": "TOYOTA",
+    "price": 140,
+    "color": "CHERRY_RED",
+    "mileage": 3500,
+    "components": [
+      "BACKUP CAMERA",
+      "ALLOY WHEELS",
+      "REMOTE START"
+    ]
+  },
+  {
+    "model": "NISSAN",
+    "price": 160,
+    "color": "CHERRY_RED",
+    "mileage": 2500,
+    "components": [
+      "BACKUP CAMERA",
+      "ALLOY WHEELS",
+      "REMOTE START"
+    ]
+  }
+]
